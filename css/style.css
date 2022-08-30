@@ -49,3 +49,31 @@ header h1 {
     display: flex;
     align-items: center;
 }
+#follow-me {
+    height: 418px;
+    background-color: var(--color-blue);
+}
+
+#follow-me h2 {
+    color: var(--color-white);
+    font-size: 32px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card-fitness {
+    background-color: var(--color-gray);
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#follow-me h3 {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+#follow-me p {
+    font-size: 14px;
+}
